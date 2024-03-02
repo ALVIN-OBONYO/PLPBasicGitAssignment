@@ -1,0 +1,6 @@
+Hello Git, this is my file that I have created to complete this assignment.
+
+to push it to github i will;
+git add .
+git commit -m "Add hello.txt with a greeting"
+git push -u origin main
