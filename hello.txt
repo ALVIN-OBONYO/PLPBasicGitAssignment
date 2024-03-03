@@ -1,4 +1,4 @@
-Hello Git, this is my file that I have created to complete this assignment.
+Hello Git, this is my file that I have created to complete the Software Engineering assignment.
 
 to push it to github i will;
 git add .
